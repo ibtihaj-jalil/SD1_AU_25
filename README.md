@@ -1,6 +1,6 @@
 # SD1_AU_25
 
 ## Student Information
-- **Name:** Ibtihaj Jalil  
-- **ID:** C243059  
-- **Section:** 3CM  
+- <span style="color:blue">**Name:** Ibtihaj Jalil</span>  
+- <span style="color:green">**ID:** C243059</span>  
+- <span style="color:red">**Section:** 3CM</span>  
