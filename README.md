@@ -2,5 +2,5 @@
 
 ## Ibtihaj Jalil
 
-- <span style="color:green">**ID:** C243059</span>  
-- <span style="color:green">**Section:** 3CM</span>  
+- ![ID](https://img.shields.io/badge/ID-C243059-brightgreen)
+- ![Section](https://img.shields.io/badge/Section-3CM-brightgreen)
