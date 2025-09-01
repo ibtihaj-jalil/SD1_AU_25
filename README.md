@@ -1,3 +1,6 @@
-![Name](https://img.shields.io/badge/Name-Ibtihaj%20Jalil-blue)
-![ID](https://img.shields.io/badge/ID-C243059-green)
-![Section](https://img.shields.io/badge/Section-3CM-red)
+# SD1_AU_25
+
+## Student Information
+- <span style="color:green">**Name:** Ibtihaj Jalil</span>  
+- <span style="color:green">**ID:** C243059</span>  
+- <span style="color:green">**Section:** 3CM</span>  
